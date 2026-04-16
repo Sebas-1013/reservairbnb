@@ -5,16 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f698d9b-809b-49b7-be3e-54533d85c952" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/reservairbnb/src/main/java/com/reservairbnb/reservairbnb/config/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reservairbnb/src/main/java/com/reservairbnb/reservairbnb/controller/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reservairbnb/src/main/java/com/reservairbnb/reservairbnb/model/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reservairbnb/src/main/java/com/reservairbnb/reservairbnb/repository/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reservairbnb/src/main/java/com/reservairbnb/reservairbnb/service/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reservairbnb/src/main/java/com/reservairbnb/reservairbnb/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reservairbnb/src/main/java/com/reservairbnb/reservairbnb/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reservairbnb/src/main/java/com/reservairbnb/reservairbnb/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reservairbnb/src/main/java/com/reservairbnb/reservairbnb/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservairbnb/src/main/java/com/reservairbnb/reservairbnb/controller/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservairbnb/src/main/java/com/reservairbnb/reservairbnb/model/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservairbnb/src/main/java/com/reservairbnb/reservairbnb/repository/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservairbnb/src/main/java/com/reservairbnb/reservairbnb/service/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservairbnb/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/reservairbnb/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,6 +42,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ReservairbnbApplication.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
