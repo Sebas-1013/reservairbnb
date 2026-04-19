@@ -15,4 +15,5 @@ public class User {
     private String email;
     private String password;
     private String role; // Ejemplo: "HOST" (dueño) o "GUEST" (cliente)
+    private String state;
 }
